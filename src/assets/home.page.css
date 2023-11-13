@@ -1,0 +1,29 @@
+body {
+    background-color: #fff;
+}
+
+
+.header-area {
+    background-color: #49b14d;
+    color: #fff;
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.body-area{
+    padding: 20px 0px;
+}
+
+.footer-area {
+    background-color: #49b14d;
+    color: #fff;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+
+.footer-area p {
+    margin-bottom: 0px;
+}
